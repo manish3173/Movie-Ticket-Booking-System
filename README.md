@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Movie Ticket Booking System** is a web-based application designed to optimize the efficiency and user experience of movie ticket management. Developed using Streamlit and MySQL, this system offers features such as user authentication, ticket booking, and cancellation. It provides a modern, intuitive interface and robust backend functionality to streamline the movie ticket reservation process.
+The **Movie Ticket Booking System** is a database management system (DBMS) project designed to optimize the efficiency and user experience of movie ticket management. Developed using Streamlit for the front end and MySQL for the backend, this system provides features such as user authentication, ticket booking, and cancellation. It combines a modern, intuitive interface with robust backend functionality to streamline the movie ticket reservation process.
 
 ## Features
 
@@ -10,7 +10,7 @@ The **Movie Ticket Booking System** is a web-based application designed to optim
 - **Ticket Booking & Cancellation**: Seamless booking and cancellation of movie tickets.
 - **Dynamic Pricing & Discounts**: Adaptive pricing models and discount options.
 - **Admin Dashboard**: Manage movie listings, showtimes, and user interactions.
-- **Interactive Seat Selection**: Visual seat selection for better user experience.
+- **Interactive Seat Selection**: Visual seat selection for enhanced user experience.
 - **Notifications & Feedback**: Real-time notifications and user feedback integration.
 
 ## Installation
